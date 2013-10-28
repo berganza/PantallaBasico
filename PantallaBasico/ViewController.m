@@ -14,6 +14,11 @@
 
 @implementation ViewController
 
+
+
+// Problema: Hacer éste ejercicio para que se vea en todos los devices de Apple: iPhone y iPad.
+
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
